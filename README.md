@@ -26,5 +26,5 @@ Once we detect an empty parking space, its time to send a notification message t
 ## References
 
 1. https://medium.com/@ageitgey/snagging-parking-spaces-with-mask-r-cnn-and-python-955f2231c400 - This is a wonderful post by Adam
-   Geitgey which inspired to build this project.
+   Geitgey which motivated me to build this project.
 2. https://github.com/matterport/Mask_RCNN - Mask RCNN implementation.
