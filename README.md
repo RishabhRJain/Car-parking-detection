@@ -1,6 +1,7 @@
 # Car-parking Spaces detection by using MRCNN on Google Colab
 
-This is an implementation of detecting empty car parking spaces and sending the user a notification once it finds it. 
+This is an implementation of detecting empty car parking spaces and sending the user a notification once it finds it. This project uses the 
+Google Colab platform, Since I DONT HAVE A GPU 😛 . Both the input and output are read and written to Google drive. 
 
 This project mainly has three parts :-
 1. Detecting the object i.e car in this case
